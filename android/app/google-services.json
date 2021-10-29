@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233900599420",
+    "project_id": "firstproject-ffaea",
+    "storage_bucket": "firstproject-ffaea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233900599420:android:64a36a17e33e14db89c1f9",
+        "android_client_info": {
+          "package_name": "com.example.instagramclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233900599420-l7cbnb0casa0mvdgkj3uort1janrasg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8cxPcoVBsgZMJDK1xufSudlvhN3kv-a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233900599420-l7cbnb0casa0mvdgkj3uort1janrasg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
